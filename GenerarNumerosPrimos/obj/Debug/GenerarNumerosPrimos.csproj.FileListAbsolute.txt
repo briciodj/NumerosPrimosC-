@@ -1,0 +1,8 @@
+C:\Users\Admin\source\repos\GenerarNumerosPrimos\GenerarNumerosPrimos\bin\Debug\GenerarNumerosPrimos.exe.config
+C:\Users\Admin\source\repos\GenerarNumerosPrimos\GenerarNumerosPrimos\bin\Debug\GenerarNumerosPrimos.exe
+C:\Users\Admin\source\repos\GenerarNumerosPrimos\GenerarNumerosPrimos\bin\Debug\GenerarNumerosPrimos.pdb
+C:\Users\Admin\source\repos\GenerarNumerosPrimos\GenerarNumerosPrimos\obj\Debug\GenerarNumerosPrimos.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\GenerarNumerosPrimos\GenerarNumerosPrimos\obj\Debug\GenerarNumerosPrimos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\GenerarNumerosPrimos\GenerarNumerosPrimos\obj\Debug\GenerarNumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\GenerarNumerosPrimos\GenerarNumerosPrimos\obj\Debug\GenerarNumerosPrimos.exe
+C:\Users\Admin\source\repos\GenerarNumerosPrimos\GenerarNumerosPrimos\obj\Debug\GenerarNumerosPrimos.pdb
